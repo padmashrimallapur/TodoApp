@@ -10,6 +10,7 @@
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         android:background="@null"
         android:hint="New Task"
+        android:inputType="text"
         />
     <Button
         android:id="@+id/newTaskButton"
